@@ -103,23 +103,7 @@
     </div>
     <div class="acronyms">
       <h2>Popular AI Acronyms</h2>
-      <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Expanded AI Acronyms Explained</title>
-  <style>
-    body { font-family: Arial, sans-serif; background: #f5f9fa; color: #263647; margin: 0; padding: 0;}
-    .container { max-width: 820px; margin: 30px auto 40px; padding: 35px 30px; background: #fff; box-shadow: 0 2px 12px rgba(80,120,180,0.078); border-radius: 10px;}
-    h1 { color: #1ca1c1; border-bottom: 2px solid #e3e8ef; padding-bottom: 10px; }
-    dt { font-weight: bold; margin-top: 17px; color: #298cd9;}
-    dd { margin-left: 0; margin-bottom: 13px; color: #2f3f50;}
-    @media (max-width: 600px) {
-      .container { padding: 13px 6px; }
-    }
-  </style>
-</head>
-<body>
+      
   <div class="container">
     <h1>Popular AI Acronyms &amp; Descriptions</h1>
     <dl>
@@ -205,10 +189,7 @@
       </dd>
     </dl>
   </div>
-</body>
-</html>
 
-    </div>
-  </div>
+ 
 </body>
 </html>
