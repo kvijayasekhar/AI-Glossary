@@ -5,6 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+  <div>
+      <div>
+          <a href="https://example.com/ai" style="text-decoration:none; margin-right:10px;"><h3 style="display:inline;">AI</h3></a> | 
+          <a href="https://example.com/python" style="text-decoration:none; margin-left:10px;"><h3 style="display:inline;">Python</h3></a>
+      </div>
+  </div>
   <div class="container">
     <h1>AI Vocabulary for Teachers</h1>
     <div class="grid">
