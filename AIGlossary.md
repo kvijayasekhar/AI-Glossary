@@ -58,7 +58,7 @@
 <div class="card">
   <h2>Chain-of-Thought Prompting (CoT)</h2>
   <p>Chain-of-Thought (CoT) Prompting is an approach in artificial intelligence, especially with large language models, where the system is guided to produce a sequence of reasoning steps before reaching an answer. Instead of providing an instant response, the model "thinks out loud," breaking the problem down into logical steps—much like a human would when working through a complex question.</p>
-  <h3>Why Use CoT?</h3>
+  <h3>Why CoT?</h3>
   <ul>
     <li><strong>Enhanced Reasoning:</strong> CoT allows models to tackle complex, multi-step problems by processing them one logical step at a time, improving the reliability of answers.</li>
     <li><strong>Transparency:</strong> Intermediate steps make the AI’s reasoning clearer, allowing users to follow and audit the thought process.</li>
