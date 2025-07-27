@@ -103,28 +103,111 @@
     </div>
     <div class="acronyms">
       <h2>Popular AI Acronyms</h2>
-      <ul>
-        <li>AI – Artificial Intelligence</li>
-        <li>AGI – Artificial General Intelligence</li>
-        <li>ML – Machine Learning</li>
-        <li>DL – Deep Learning</li>
-        <li>NLP – Natural Language Processing</li>
-        <li>CV – Computer Vision</li>
-        <li>LLM – Large Language Model</li>
-        <li>RL – Reinforcement Learning</li>
-        <li>RLHF – Reinforcement Learning from Human Feedback</li>
-        <li>GAN – Generative Adversarial Network</li>
-        <li>CoT – Chain-of-Thought (Prompting)</li>
-        <li>GPT – Generative Pre-trained Transformer</li>
-        <li>RNN – Recurrent Neural Network</li>
-        <li>CNN – Convolutional Neural Network</li>
-        <li>BERT – Bidirectional Encoder Representations from Transformers</li>
-        <li>LSTM – Long Short-Term Memory</li>
-        <li>AIoT – Artificial Intelligence of Things</li>
-        <li>ASR – Automatic Speech Recognition</li>
-        <li>API – Application Programming Interface</li>
-        <li>OCR – Optical Character Recognition</li>
-      </ul>
+      <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Expanded AI Acronyms Explained</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f5f9fa; color: #263647; margin: 0; padding: 0;}
+    .container { max-width: 820px; margin: 30px auto 40px; padding: 35px 30px; background: #fff; box-shadow: 0 2px 12px rgba(80,120,180,0.078); border-radius: 10px;}
+    h1 { color: #1ca1c1; border-bottom: 2px solid #e3e8ef; padding-bottom: 10px; }
+    dt { font-weight: bold; margin-top: 17px; color: #298cd9;}
+    dd { margin-left: 0; margin-bottom: 13px; color: #2f3f50;}
+    @media (max-width: 600px) {
+      .container { padding: 13px 6px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Popular AI Acronyms &amp; Descriptions</h1>
+    <dl>
+      <dt>AI – Artificial Intelligence</dt>
+      <dd>
+        The broad field of creating computer systems that perform tasks typically requiring human intelligence, such as reasoning, learning, problem-solving, perception, and understanding language.
+      </dd>
+      <dt>AGI – Artificial General Intelligence</dt>
+      <dd>
+        An advanced form of AI that can understand, learn, and apply knowledge across a wide range of tasks with the same level of intelligence as a human being. AGI is currently a theoretical concept.
+      </dd>
+      <dt>ML – Machine Learning</dt>
+      <dd>
+        A subset of AI where computers are programmed to learn and improve from data and experience, rather than following explicit instructions. ML is used in things like recommendations, spam detection, and image recognition.
+      </dd>
+      <dt>DL – Deep Learning</dt>
+      <dd>
+        A specialized type of machine learning using many layers of artificial neural networks. Deep learning excels at processing complex data like images, audio, and large text collections.
+      </dd>
+      <dt>NLP – Natural Language Processing</dt>
+      <dd>
+        A field of AI focused on enabling computers to understand, interpret, and respond to human language in a useful way. NLP powers translation tools, chatbots, and voice assistants.
+      </dd>
+      <dt>CV – Computer Vision</dt>
+      <dd>
+        The technology that enables computers to see, process, and understand visual information from the world, such as photos and videos. Used in facial recognition, medical imaging, and self-driving cars.
+      </dd>
+      <dt>LLM – Large Language Model</dt>
+      <dd>
+        A deep learning model (like GPT) trained on massive amounts of text data to generate and understand human-like language. LLMs can draft emails, summarize texts, answer questions, and more.
+      </dd>
+      <dt>RL – Reinforcement Learning</dt>
+      <dd>
+        A type of machine learning where an AI learns to make decisions by taking actions in an environment to maximize rewards, similar to how animals learn through trial and error.
+      </dd>
+      <dt>RLHF – Reinforcement Learning from Human Feedback</dt>
+      <dd>
+        An approach where AI is trained not just by automated rewards, but also by feedback and preferences given by humans to align AI responses better with what people value.
+      </dd>
+      <dt>GAN – Generative Adversarial Network</dt>
+      <dd>
+        A system of two neural networks: one creates fake data (like images) and the other tries to spot what is fake or real. Through this competition, the generator becomes very good at creating realistic new data. Used in art, deepfake videos, and scientific simulations.
+      </dd>
+      <dt>CoT – Chain-of-Thought (Prompting)</dt>
+      <dd>
+        A prompting method that guides AI to show its step-by-step reasoning as it solves a problem, improving accuracy for complex queries.
+      </dd>
+      <dt>GPT – Generative Pre-trained Transformer</dt>
+      <dd>
+        A popular architecture for large language models. GPTs are trained on huge amounts of text and can generate coherent, context-aware responses, stories, code, and more.
+      </dd>
+      <dt>RNN – Recurrent Neural Network</dt>
+      <dd>
+        A neural network especially good at handling sequential data, such as time series or sentences, because it keeps track of previous information as it processes new inputs.
+      </dd>
+      <dt>CNN – Convolutional Neural Network</dt>
+      <dd>
+        A deep learning model particularly effective for analyzing visual imagery. CNNs automatically discover patterns in images and are widely used in computer vision tasks.
+      </dd>
+      <dt>BERT – Bidirectional Encoder Representations from Transformers</dt>
+      <dd>
+        A transformer-based language model designed to better understand the context of words in both directions in a sentence. BERT sets new standards for many language comprehension tasks.
+      </dd>
+      <dt>LSTM – Long Short-Term Memory</dt>
+      <dd>
+        A special kind of RNN well-suited for remembering information for longer sequences, such as texts or spoken words, making it very useful for language modeling and translation.
+      </dd>
+      <dt>AIoT – Artificial Intelligence of Things</dt>
+      <dd>
+        Combines AI and the Internet of Things (IoT), allowing smart devices not only to collect data but also to analyze and act on it locally, enabling smart homes, smart cities, and intelligent industrial equipment.
+      </dd>
+      <dt>ASR – Automatic Speech Recognition</dt>
+      <dd>
+        The technology that converts spoken language to written text, enabling applications like virtual assistants, subtitles, and real-time transcription.
+      </dd>
+      <dt>API – Application Programming Interface</dt>
+      <dd>
+        A set of defined rules and tools that allows different software applications to communicate with each other. APIs are the building blocks for integrating AI into apps and services.
+      </dd>
+      <dt>OCR – Optical Character Recognition</dt>
+      <dd>
+        Technology that converts different types of documents, such as scanned paper, PDFs, or images, into editable and searchable text.
+      </dd>
+    </dl>
+  </div>
+</body>
+</html>
+
     </div>
   </div>
 </body>
