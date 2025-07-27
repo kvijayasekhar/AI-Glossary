@@ -4,19 +4,6 @@
   <meta charset="UTF-8">
   <title>AI Vocabulary for Teachers</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body { font-family: Arial, sans-serif; background: #f8fafd; color: #293140; }
-    h1 { color: #1b97c6; }
-    .container { max-width: 980px; margin: 30px auto; padding: 22px 28px; background: #fff; box-shadow: 0 2px 12px #e7eaf0;}
-    .grid { display: flex; flex-wrap: wrap; gap: 24px; }
-    .card { background: #f2f7fb; border-radius: 7px; flex: 1 1 292px; min-width: 270px; padding: 16px 18px; box-sizing: border-box; }
-    .acronyms { background: #eaf6fb; border-left: 6px solid #32b5df; margin: 22px 0; padding: 14px 16px; }
-    ul { margin: 0; padding-inline-start: 20px; }
-    li { margin-bottom: 5px;}
-    @media (max-width: 800px) {
-      .grid { flex-direction: column; }
-    }
-  </style>
 </head>
 <body>
   <div class="container">
