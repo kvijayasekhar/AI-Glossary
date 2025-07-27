@@ -10,7 +10,6 @@
     <div class="grid">
      <div class="card">
   <h2>Artificial Intelligence (AI)</h2>
-
   <p>AI is a branch of computer science focused on creating machines and software capable of performing tasks that typically require human intelligence, such as:</p>
   <ul>
     <li>Problem-solving</li>
@@ -19,7 +18,6 @@
     <li>Learning from data</li>
     <li>Making decisions</li>
   </ul>
-
   <h3>Why AI?</h3>
   <ul>
     <li>To automate and efficiently perform complex or repetitive tasks</li>
@@ -28,7 +26,6 @@
     <li>To enable personalized services, smart recommendations, and natural interactions</li>
     <li>To drive innovation and productivity across various industries</li>
   </ul>
-
   <h3>When to use AI?</h3>
   <ul>
     <li>When tasks involve large-scale data processing or analysis</li>
@@ -38,25 +35,45 @@
     <li>Avoid AI for tasks requiring deep ethical judgment, high creativity, or emotional intelligence, where human oversight remains critical</li>
   </ul>
 </div>
-      <div class="card">
-        <h2>Artificial Intelligence (AI)</h2>
-        <p>
-          AI is a field of computer science focused on creating machines capable of tasks that require human-like thinking, such as problem-solving, understanding language, and recognizing patterns.
-        </p>
-      </div>
-      <div class="card">
-        <h2>Artificial General Intelligence (AGI)</h2>
-        <p>
-          AGI refers to AI systems that can learn, reason, and adapt to different tasks, exhibiting a level of intelligence similar to human cognition.
-        </p>
-      </div>
-      <div class="card"> <h2>Artificial General Intelligence (AGI)</h2> <p><strong>What is AGI?</strong><br/> AGI refers to a type of artificial intelligence that aims to replicate human-level intelligence. It is a hypothetical or theoretical AI that can understand, learn, and perform intellectual tasks across virtually any domain that a human can. Unlike narrow AI, which specializes in specific tasks, AGI possesses the ability to generalize knowledge, adapt autonomously, solve novel problems, and exhibit reasoning comparable to human cognition. </p> <p><strong>Why AGI?</strong><br/> - To develop machines capable of versatile and flexible thinking beyond pre-programmed tasks.<br/> - To automate and solve complex, multi-domain problems that humans currently handle.<br/> - To revolutionize industries through unprecedented productivity, innovation, and efficiency.<br/> - To enable autonomous learning and self-improvement over time, reducing reliance on human intervention.<br/> - To potentially assist in addressing global challenges like healthcare, climate change, and education by applying human-level reasoning and creativity. </p> <p><strong>When to use AGI?</strong><br/> - When tasks require broad, adaptable intelligence that can switch across domains.<br/> - For problems that are novel, complex, or ambiguous, where programmed solutions are insufficient.<br/> - In scenarios demanding high-level reasoning, real-time decision-making, and autonomous goal-directed behavior.<br/> - For applications needing natural language understanding, creative problem-solving, or social and emotional cognition.<br/> - Currently, AGI remains a theoretical goal and is not yet available for practical use. Its deployment will require careful ethical considerations and oversight. </p> </div>
-      <div class="card">
-        <h2>Chain-of-Thought Prompting</h2>
-        <p>
-          A method where AI models are guided to break down their thought process step-by-step, improving reasoning and problem-solving abilities.
-        </p>
-      </div>
+<div class="card"> 
+  <h2>Artificial General Intelligence (AGI)</h2> 
+  AGI refers to a type of artificial intelligence that aims to replicate human-level intelligence. It is a hypothetical or theoretical AI that can understand, learn, and perform intellectual tasks across virtually any domain that a human can. Unlike narrow AI, which specializes in specific tasks, AGI possesses the ability to generalize knowledge, adapt autonomously, solve novel problems, and exhibit reasoning comparable to human cognition.  
+  <h3>Why AGI?</h3>
+    <ul>
+      <li>To develop machines capable of versatile and flexible thinking beyond pre-programmed tasks.</li>
+      <li>To automate and solve complex, multi-domain problems that humans currently handle.</li>
+      <li>To revolutionize industries through unprecedented productivity, innovation, and efficiency.</li>
+      <li>To enable autonomous learning and self-improvement over time, reducing reliance on human intervention.</li>
+      <li>To potentially assist in addressing global challenges like healthcare, climate change, and education by applying human-level reasoning and creativity.</li>
+    </ul>
+  <h3>When to use AGI?</h3>
+    <ul>
+      <li>When tasks require broad, adaptable intelligence that can switch across domains.</li>
+      <li>For problems that are novel, complex, or ambiguous, where programmed solutions are insufficient.</li>
+      <li>In scenarios demanding high-level reasoning, real-time decision-making, and autonomous goal-directed behavior.</li>
+      <li>For applications needing natural language understanding, creative problem-solving, or social and emotional cognition.</li>
+      <li>Currently, AGI remains a theoretical goal and is not yet available for practical use. Its deployment will require careful ethical considerations and oversight.</li>
+    </ul>
+</div>
+<div class="card">
+  <h2>Chain-of-Thought Prompting (CoT)</h2>
+  <p>Chain-of-Thought (CoT) Prompting is an approach in artificial intelligence, especially with large language models, where the system is guided to produce a sequence of reasoning steps before reaching an answer. Instead of providing an instant response, the model "thinks out loud," breaking the problem down into logical steps—much like a human would when working through a complex question.</p>
+  <h3>Why Use CoT?</h3>
+  <ul>
+    <li><strong>Enhanced Reasoning:</strong> CoT allows models to tackle complex, multi-step problems by processing them one logical step at a time, improving the reliability of answers.</li>
+    <li><strong>Transparency:</strong> Intermediate steps make the AI’s reasoning clearer, allowing users to follow and audit the thought process.</li>
+    <li><strong>Error Reduction:</strong> By spelling out each step, the model can spot and correct mistakes before arriving at a final answer.</li>
+    <li><strong>Human-Like Thinking:</strong> CoT emulates the way humans reason through ambiguous or challenging tasks, making interactions more natural and robust.</li>
+  </ul>
+  <h3>When to Use CoT?</h3>
+  <ul>
+    <li>When tasks involve complex, multi-step reasoning (e.g., math problems, logic puzzles, or cases where information needs to be combined and inferred).</li>
+    <li>In scenarios with ambiguity, where breaking down the problem helps clarify the requirements or assumptions.</li>
+    <li>For educational or research purposes, where the path to an answer is as valuable as the answer itself.</li>
+    <li>When building explainable AI applications, where seeing the reasoning process improves trust and understanding.</li>
+  </ul>
+  <p>Chain-of-Thought Prompting is best applied to situations requiring careful reasoning or transparency. For simple, direct questions, traditional prompting remains sufficient, but for tasks requiring depth or clarity in reasoning, CoT is a powerful method.</p>
+</div>
       <div class="card">
         <h2>GPT</h2>
         <p>
