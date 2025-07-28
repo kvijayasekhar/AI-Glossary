@@ -5,13 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <div>
       <div>
-         <a href="">Home</a> | 
-         <a href="">AI</a>   | 
-         <a href="">Python</a>
+          <h3 tabindex="-1" class="heading-element" dir="auto">
+            <a href="">Home</a> |
+            <a href="">AI</a> |
+            <a href="">Python</a>
+          </h3>
       </div>
-  </div>
   <div class="container">
     <h1>AI Vocabulary for Teachers</h1>
     <div class="grid">
