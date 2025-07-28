@@ -14,7 +14,7 @@
           </h3>
       </div>
   <div class="container">
-    <h1>AI Vocabulary for Teachers</h1>
+    <h1>AI Vocabulary</h1>
     <div class="grid">
      <div class="card">
   <h2>Artificial Intelligence (AI)</h2>
