@@ -7,8 +7,9 @@
 <body>
   <div>
       <div>
-          <a href="https://example.com/ai" style="text-decoration:none; margin-right:10px;"><h3 style="display:inline;">AI</h3></a> | 
-          <a href="https://example.com/python" style="text-decoration:none; margin-left:10px;"><h3 style="display:inline;">Python</h3></a>
+         <a href="">Home</a> | 
+         <a href="">AI</a>   | 
+         <a href="">Python</a>
       </div>
   </div>
   <div class="container">
