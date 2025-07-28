@@ -82,13 +82,32 @@
   </ul>
   <p>Chain-of-Thought Prompting is best applied to situations requiring careful reasoning or transparency. For simple, direct questions, traditional prompting remains sufficient, but for tasks requiring depth or clarity in reasoning, CoT is a powerful method.</p>
 </div>
-      <div class="card">
-        <h2>GPT</h2>
-        <p>
-          A type of large language model trained on massive amounts of text to understand human-like text, answer questions, and produce diverse content based on the input prompt.
-        </p>
-      </div>
-      <div class="card">
+<div class="card"> 
+  <h2>Generative Pre-trained Transformer (GPT)</h2> 
+  <ul>
+    <li>Generative Pre-trained Transformer (GPT) is an advanced AI model based on transformer architecture.</li>
+    <li>Trained on vast internet data to understand and generate human-like text and more.</li>
+    <li>A large language model (LLM) excelling in natural language tasks like conversation, summarization, translation, and coding.</li>
+  </ul>
+  <h3>Why Use GPT?</h3>
+  <ul>
+    <li>Generates coherent, contextually relevant, and creative human-like text.</li>
+    <li>Automates repetitive and complex language-related tasks.</li>
+    <li>Boosts productivity and creativity in writing, brainstorming, and research.</li>
+    <li>Enhances accessibility by simplifying and personalizing content.</li>
+    <li>Supports diverse applications like chatbots, customer service, education, and business automation.</li>
+  </ul>
+  <h3>When to Use GPT?</h3>
+  <ul>
+    <li>Quick generation of text outputs like articles, reports, scripts, or emails.</li>
+    <li>Building conversational AI such as chatbots and digital assistants.</li>
+    <li>Language processing tasks: translation, paraphrasing, rewriting, or simplification.</li>
+    <li>Automating coding tasks and data analysis.</li>
+    <li>Educational tools: tutoring, quiz or tutorial creation, and research summarization.</li>
+    <li>Business automation: summarizing meetings, analyzing customer feedback.</li>
+  </ul>
+</div>
+<div class="card">
         <h2>Context Window</h2>
         <p>
           The range of data a model considers when making predictions or generating text. Larger context windows help models deliver more accurate results.
