@@ -10,7 +10,7 @@
             <a href="">Home</a> |
             <a href="AIGlossary.md">AI</a> |
             <a href="">Python</a> |
-             <a href="JobsDescription.md">AI Jobs Descriptions</a>
+            <a href="JobsDescription.md">AI Jobs Descriptions</a>
           </h3>
       </div>
   <div class="container">
